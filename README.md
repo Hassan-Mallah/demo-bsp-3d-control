@@ -1,4 +1,4 @@
-# Gesture Remote Control
+# BSP 3D Control
 
 [中文](README_zh.md) | English
 
